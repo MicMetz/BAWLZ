@@ -1,4 +1,4 @@
-import {vars} from "./_vars.js";
+import {vars} from "./vars.js";
 import * as util from "./utilities.js";
 
 

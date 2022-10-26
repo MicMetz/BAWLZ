@@ -1,7 +1,7 @@
 // setup canvas
 
 import {Ball} from "./ball.js";
-import {vars} from "./_vars.js";
+import {vars} from "./vars.js";
 import * as util from "./utilities.js";
 
 // function to generate random number
